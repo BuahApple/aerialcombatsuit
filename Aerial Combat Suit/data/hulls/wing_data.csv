@@ -1,0 +1,7 @@
+id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+acs_trooper_Fighter_wing,acs_trooper_Fighter,"interceptor3, interceptor, mid, midline_bp",3,,2,5,V,4000,500,0,5,FIGHTER,Fighter,6,20000,,,,,,,,,,,,,25
+acs_gunner_Fighter_wing,acs_gunner_variant,"support3, fighter, mid, midline_bp",3,,2,6,V,4000,500,0,2,FIGHTER,Fighter,8,25000,,,,,,,,,,,,,26
+acs_watchman_Fighter_wing,acs_watchman_variant,"interceptor2, interceptor, low, lowtech_bp",1,,2,3,V,4000,500,0,5,FIGHTER,Fighter,5,10000,,,,,,,,,,,,,27
+acs_peasant_Fighter_wing,acs_peasant_variant,"interceptor1, interceptor, low, base_bp",0,,2,2,V,4000,500,0,6,FIGHTER,Fighter,3,5000,,,,,,,,,,,,,28
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,29
